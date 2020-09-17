@@ -1,0 +1,6 @@
+{
+  "entrypoint": "kr512.server.extensions.devforehead.DevForehead",
+  "name": "DevForeHead",
+  "version": "0.1-SNAPSHOT",
+  "authors": ["ilsubyeega"]
+}
